@@ -20,7 +20,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Robotics Engineering;
 - 📫 Please email via rathiishan0@gmail.com to reach me.
 
-# Languages and Tools:
+# Languages and Tools
   - Python
   - C++
   - C
