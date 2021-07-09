@@ -5,7 +5,7 @@
 > ### Hey 👋, I'm Ishan
 
 # Websites
-- Linkdien: "https://www.linkedin.com/in/ishanrathi/">
+- Linkedin: "https://www.linkedin.com/in/ishanrathi/">
 - Personal: Ishanrathi.com
 
 Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an intern at Lockheed Martin.
