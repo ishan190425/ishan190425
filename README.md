@@ -46,7 +46,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 ## Algorthmic Trading 
 - Cryptocurrency Trading Bot
 
-#Resume
+# Resume
 - https://drive.google.com/file/d/1nYPO43HGYk0lVjQZpHD21pn-zCzoIFkx/view?usp=sharing
 
 
