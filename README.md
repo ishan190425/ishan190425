@@ -18,7 +18,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+# About Me
 
 - 👨🏽‍💻 I’m currently an Test Automation intern with [Lockheed Martin](https://www.lockheedmartin.com/)
 - 🌱 I’m currently learning Deep Learning
@@ -26,7 +26,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 📫 Please email via rathiishan0@gmail.com to reach me.
 
-**Languages and Tools:**  
+# Languages and Tools:
   - Python
   - C++
   - C
