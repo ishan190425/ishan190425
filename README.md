@@ -4,12 +4,9 @@
 
 > ### Hey 👋, I'm Ishan
 
-<a href="https://www.linkedin.com/in/ishanrathi/">
-  <img align="left" alt="Ishan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="Ishan Rathi">
-  <img align="left" alt="Ishan's Website" width="22px" src="https://cdn.jsdelivr.net/npm/@material-icons/svg@1.0.13/svg/home/baseline.svg" />
-</a>
+# Websites
+- Linkdien: "https://www.linkedin.com/in/ishanrathi/">
+- Personal: Ishanrathi.com
 
 <br />
 <br />
