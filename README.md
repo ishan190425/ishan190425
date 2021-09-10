@@ -46,4 +46,4 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 # Open Source Contributions
 - Freqtrade
 
-⭐️ From [Ishan190425i](https://github.com/ishan190425)
+⭐️ From [Ishan190425](https://github.com/ishan190425)
