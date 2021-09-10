@@ -8,9 +8,9 @@
 Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an intern at Lockheed Martin.
 
 # Websites
-- [Linkedin]https://www.linkedin.com/in/ishanrathi/
-- [Personal Website]https://ishanrathi.com
-- [Resume]https://drive.google.com/file/d/1S95qGvGdVOxc97OCfHhk1SQY85Zd-1H9/view?usp=sharing
+- [Linkedin](https://www.linkedin.com/in/ishanrathi/)
+- [Personal Website](https://ishanrathi.com)
+- [Resume](https://drive.google.com/file/d/1S95qGvGdVOxc97OCfHhk1SQY85Zd-1H9/view?usp=sharing)
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
