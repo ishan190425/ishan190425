@@ -19,7 +19,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 
 - 👨🏽‍💻 I’m currently an Test Automation intern with [Lockheed Martin](https://www.lockheedmartin.com/)
 - 🌱 I’m currently learning Deep Learning
-- 🤔 My interests are with Artifical Intligence..
+- 🤔 My interests are in Artificial Intelligence..
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Robotics Engineering;
 - 📫 Please email via rathiishan0@gmail.com to reach me.
 
