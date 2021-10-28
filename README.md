@@ -39,7 +39,11 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 # Projects: 
 
 ## Reinforcement Learning:
-- Snake
+- AI Snake
+
+## Deep Learning
+- Artifical Neural Network Churn Modeling
+
 ## Algorithmic Trading 
 - Cryptocurrency Trading Bot
 
