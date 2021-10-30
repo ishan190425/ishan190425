@@ -44,6 +44,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 ## Deep Learning
 - Artificial Neural Network Churn Modeling
 - Titanic Kaggle Competition
+- Convolutional Neural Network Pet Predictor
 
 ## Algorithmic Trading 
 - Cryptocurrency Trading Bot
