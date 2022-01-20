@@ -21,7 +21,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 - 🌱 I’m currently learning Deep Learning
 - 🤔 My interests are in Artificial Intelligence..
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Robotics Engineering;
-- 📫 Please email via rathiishan0@gmail.com to reach me.
+- 📫 Email - rathiishan0@gmail.com
 
 # Languages and Tools
   - Python
