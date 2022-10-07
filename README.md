@@ -5,7 +5,7 @@
 > ### Hey 👋, I'm Ishan
 
 
-Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an intern at Lockheed Martin.
+Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an incoming SDE at Amazon.
 
 # Websites
 - [Linkedin](https://www.linkedin.com/in/ishanrathi/)
@@ -17,7 +17,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 
 # About Me
 
-- 👨🏽‍💻 I’m currently an Test Automation intern with [Lockheed Martin](https://www.lockheedmartin.com/)
+- 👨🏽‍💻 I’m currently an incoming SDE at [Amazon](https://www.amazon.com/)
 - 🌱 I’m currently learning Deep Learning
 - 🤔 My interests are in Artificial Intelligence..
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Robotics Engineering;
