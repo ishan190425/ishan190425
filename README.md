@@ -5,7 +5,7 @@
 > ### Hey 👋, I'm Ishan
 
 
-Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an incoming SDE at Amazon.
+Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an incoming SDE at Amazon and an incoming Masters student in Artifical Intelligence at John's Hopkins
 
 # Websites
 - [Linkedin](https://www.linkedin.com/in/ishanrathi/)
@@ -21,6 +21,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 - 🌱 I’m currently learning Deep Learning
 - 🤔 My interests are in Artificial Intelligence..
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Robotics Engineering;
+- 💼 Inocming Masters in Artifical Intelligence;
 - 📫 Email - rathiishan0@gmail.com
 
 # Languages and Tools
@@ -51,5 +52,6 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 
 # Open Source Contributions
 - Freqtrade
+- DonkeyCar
 
 ⭐️ From [Ishan190425](https://github.com/ishan190425)
