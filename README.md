@@ -35,8 +35,6 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
   - Numpy
   - Git
 
-![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishan190425&show_icons=true&hide_border=true)
-
 # Projects 
 
 ## Reinforcement Learning
