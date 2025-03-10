@@ -5,7 +5,7 @@
 > ### Hey 👋, I'm Ishan
 
 
-Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, im an incoming SDE at Amazon and an incoming **Masters student in Artifical Intelligence at John's Hopkins**
+Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, I'm an SDE at Amazon and a **Masters student in Artifical Intelligence at John's Hopkins**
 
 # Websites
 - [Linkedin](https://www.linkedin.com/in/ishanrathi/)
