@@ -5,7 +5,7 @@
 > ### Hey 👋, I'm Ishan
 
 
-Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering student from Worcester Polytechnic Insituite** 🚀.  Currently, I'm an SDE at Amazon and a **Masters student in Artifical Intelligence at John's Hopkins**
+Hi there, I'm **Ishan Rathi**. Currently, I'm an SDE at Amazon
 
 # Websites
 - [Linkedin](https://www.linkedin.com/in/ishanrathi/)
@@ -17,11 +17,7 @@ Hi there, I'm **Ishan Rathi**,  a **Computer Science and Robotics Engineering st
 
 # About Me
 
-- 👨🏽‍💻 I’m currently an incoming SDE at [Amazon](https://www.amazon.com/)
-- 🌱 I’m currently learning Deep Learning
-- 🤔 My interests are in Artificial Intelligence..
-- 💼 I’m pursuing a Bachelor's degree in Computer Science and Robotics Engineering;
-- 💼 Inocming Masters in Artifical Intelligence;
+- 👨🏽‍💻 I’m currently an SDE at [Amazon](https://www.amazon.com/)
 - 📫 Email - rathiishan0@gmail.com
 
 # Languages and Tools
