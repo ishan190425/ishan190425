@@ -99,7 +99,7 @@ skills = {
 + Master's in AI from Johns Hopkins University (2023-2025)
 + DoD Secret Security Clearance
 + Multiple provisional patents
-+ 3x Co-Founder with successful exits
++ 3x Co-Founder
 ```
 
 ---
