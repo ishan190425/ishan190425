@@ -31,7 +31,7 @@
 ```yaml
 🔥 Active Development:
   - SocialTrade: Next-gen social trading platform
-  - PrimeInspirations.com: Automated dropshipping with AI optimization
+  - Automated dropshipping with AI optimization
   - Production-Ready RAG Systems: Technical blog & implementation guides
 ```
 
@@ -110,7 +110,7 @@ skills = {
 - ☁️ Architecting scalable AWS integrations for enterprise AI
 - 📝 Writing technical deep-dives on [Production-Ready RAG Systems](https://ishanrathi.com)
 - 💼 Investing in early-stage AI and SaaS startups
-- 🚀 Scaling SocialTrade and PrimeInspirations.com
+- 🚀 Scaling SocialTrade
 
 ---
 
