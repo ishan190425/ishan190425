@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Ishan Rathi
 
-### AI Engineer II / SDE II @ Amazon NYC 🚀
+### AI Engineer II @ Amazon NYC · Founder · Angel Investor 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanrathi/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ishanrathi.com)
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-> **Recently promoted to AI Engineer II/SDE II** (October 2025) at Amazon NYC, where I build cutting-edge LLM systems and AWS integrations. Beyond engineering, I'm an active angel investor with **Hustle Fund Angel Squad** and **Rathi Capital Ventures**, backing the next generation of innovative startups.
+> **AI Engineer II / SDE II at Amazon NYC** (promoted October 2025), building production LLM systems and AWS integrations at scale. Beyond engineering, I'm an active angel investor with **Hustle Fund Angel Squad** and **Rathi Capital Ventures**, backing the next wave of AI and SaaS startups.
 
 🎓 **Education:**
-- 🎓 **Master of Science in Artificial Intelligence** - Johns Hopkins University (2023-2025)
-- 🤖 **BS in Robotics Engineering & Computer Science** - Worcester Polytechnic Institute (2019-2023)
+- 🧠 **MS in Artificial Intelligence** — Johns Hopkins University (2023–2025)
+- 🤖 **BS in Robotics Engineering & Computer Science** — Worcester Polytechnic Institute (2019–2023)
 
 🔐 **Clearances & Recognition:**
 - Secret Security Clearance (Department of Defense)
@@ -26,24 +26,44 @@
 
 ---
 
-## 💼 Current Projects
+## 💼 What I'm Building
 
 ```yaml
-🔥 Active Development:
-  - SocialTrade: Next-gen social trading platform
-  - Automated dropshipping with AI optimization
-  - Production-Ready RAG Systems: Technical blog & implementation guides
+🔥 Active Projects:
+  - ADA (Autonomous Dev Agents): CLI/SaaS for autonomous AI dev teams on any repo
+  - SocialTrade: Next-gen social trading platform (React Native + Supabase)
+  - R.I.A.: Personal AI agent — calendar, email, smart home, autonomous workflows
+  - Rathi Industries / NEXUS: Modular AI-powered robotics platform
+
+💡 Areas of Focus:
+  - Multi-agent AI systems & orchestration
+  - Production RAG systems & LLM engineering
+  - Full-stack product development
+  - Angel investing in early-stage AI/SaaS
 ```
+
+---
+
+## ⚡ Featured Projects
+
+### [ADA — Autonomous Dev Agents](https://github.com/ishan190425/autonomous-dev-agents)
+Ship software with autonomous AI dev teams. Multi-role agent rotation (CEO, Engineering, Product, Ops, Research, Design, Growth, Scrum), memory banks, CI/CD integration. TypeScript monorepo with CLI + web dashboard.
+
+### [SocialTrade](https://github.com/ishan190425/social-trade)
+Social trading platform where users share portfolios, follow top traders, and compete on leaderboards. Built with React Native, Supabase, and real-time data. Our AI agent team (ADA) builds and maintains it autonomously.
+
+### [Rathi Industries — NEXUS](https://github.com/ishan190425/rathi-industries)
+Modular AI-powered robotics platform. Perception, navigation, manipulation, and LLM-powered task planning modules. Built by an autonomous agent team dogfooding our own tools.
 
 ---
 
 ## 🏆 Past Ventures
 
-| Company | Role | Period | 
+| Company | Role | Period |
 |---------|------|--------|
-| **GamersKnockout** | Co-Founder & CTO | Apr 2023 - Jul 2024 |
-| **315Origin** | Co-Founder | Aug 2020 - Feb 2022 |
-| **Heriak** | Co-Founder | Feb 2021 - Feb 2022 |
+| **GamersKnockout** | Co-Founder & CTO | Apr 2023 – Jul 2024 |
+| **315Origin** | Co-Founder | Aug 2020 – Feb 2022 |
+| **Heriak** | Co-Founder | Feb 2021 – Feb 2022 |
 
 ---
 
@@ -51,13 +71,13 @@
 
 ```python
 skills = {
-    "languages": ["Python", "C++", "Java", "C"],
-    "cloud": ["AWS Lambda", "EC2", "S3", "SageMaker", "DynamoDB"],
-    "ml_ai": ["LLMs", "RAG Systems", "Deep Learning", "Reinforcement Learning"],
-    "frameworks": ["PyTorch", "TensorFlow", "LangChain", "Hugging Face"],
-    "databases": ["GraphDB", "PostgreSQL", "MongoDB", "Neo4j"],
-    "tools": ["Docker", "Git", "Kubernetes", "CI/CD"],
-    "specialties": ["Machine Learning", "NLP", "Computer Vision", "MLOps"]
+    "languages": ["Python", "TypeScript", "C++", "Java"],
+    "cloud": ["AWS (Lambda, S3, SageMaker, Bedrock, DynamoDB)", "Vercel", "Supabase"],
+    "ai_ml": ["LLMs", "RAG Systems", "Multi-Agent Systems", "Deep Learning", "NLP", "CV"],
+    "frameworks": ["PyTorch", "LangChain", "Next.js", "React Native", "Hugging Face"],
+    "databases": ["PostgreSQL", "DynamoDB", "Neo4j", "Supabase"],
+    "tools": ["Docker", "Git", "GitHub Actions", "CI/CD"],
+    "specialties": ["AI Agent Orchestration", "Production ML", "Full-Stack Dev", "MLOps"]
 }
 ```
 
@@ -66,12 +86,14 @@ skills = {
 ### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![GraphDB](https://img.shields.io/badge/GraphDB-2C3E50?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </div>
 
@@ -94,23 +116,14 @@ skills = {
 ## 🌟 Highlights
 
 ```diff
-+ Promoted to AI Engineer II / SDE II at Amazon (Oct 2025)
-+ Active Angel Investor: Hustle Fund Angel Squad, Rathi Capital Ventures
-+ Master's in AI from Johns Hopkins University (2023-2025)
++ AI Engineer II / SDE II at Amazon NYC (Oct 2025)
++ Building ADA — autonomous AI dev teams for any repo
++ Active Angel Investor: Hustle Fund Angel Squad · Rathi Capital Ventures
++ MS in Artificial Intelligence — Johns Hopkins University
 + DoD Secret Security Clearance
 + Multiple provisional patents
-+ 3x Co-Founder
++ 3x Co-Founder · Serial builder
 ```
-
----
-
-## 🔥 What I'm Working On
-
-- 🤖 Building production-ready RAG systems with LLMs
-- ☁️ Architecting scalable AWS integrations for enterprise AI
-- 📝 Writing technical deep-dives on [Production-Ready RAG Systems](https://ishanrathi.com)
-- 💼 Investing in early-stage AI and SaaS startups
-- 🚀 Scaling SocialTrade
 
 ---
 
@@ -118,11 +131,10 @@ skills = {
 
 <div align="center">
 
-**Open to collaboration on AI/ML projects, angel investing opportunities, and innovative startup ideas!**
+**Open to collaboration on AI/ML projects, agent systems, angel investing, and ambitious startup ideas!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishanrathi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://ishanrathi.com)
-[![Resume](https://img.shields.io/badge/Resume-View-FF6B6B?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1S95qGvGdVOxc97OCfHhk1SQY85Zd-1H9/view?usp=sharing)
 
 </div>
 
@@ -130,7 +142,7 @@ skills = {
 
 <div align="center">
   
-### 💡 "Building the future, one AI system at a time"
+### 💡 "Building the future with autonomous AI systems"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishan190425&color=blueviolet&style=flat-square)
 
