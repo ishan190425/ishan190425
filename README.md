@@ -33,7 +33,7 @@
   - ADA (Autonomous Dev Agents): CLI/SaaS for autonomous AI dev teams on any repo
   - SocialTrade: Next-gen social trading platform (React Native + Supabase)
   - R.I.A.: Personal AI agent — calendar, email, smart home, autonomous workflows
-  - Rathi Industries / NEXUS: Modular AI-powered robotics platform
+  - RCV AI Hedge Fund: Quantitative trading & portfolio management with autonomous AI agents
 
 💡 Areas of Focus:
   - Multi-agent AI systems & orchestration
@@ -52,8 +52,8 @@ Ship software with autonomous AI dev teams. Multi-role agent rotation (CEO, Engi
 ### [SocialTrade](https://github.com/ishan190425/social-trade)
 Social trading platform where users share portfolios, follow top traders, and compete on leaderboards. Built with React Native, Supabase, and real-time data. Our AI agent team (ADA) builds and maintains it autonomously.
 
-### [Rathi Industries — NEXUS](https://github.com/ishan190425/rathi-industries)
-Modular AI-powered robotics platform. Perception, navigation, manipulation, and LLM-powered task planning modules. Built by an autonomous agent team dogfooding our own tools.
+### [RCV AI Hedge Fund](https://github.com/RATHI-CAPITAL-VENTURES/rcv-ai-hedge-fund)
+Systematic multi-strategy quant fund — statistical arbitrage, momentum, volatility trading, and ML signals. Black-Scholes pricing, event-driven backtesting, risk management (VaR, Greeks). Built entirely by an autonomous AI agent team.
 
 ---
 
@@ -94,6 +94,8 @@ skills = {
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
