@@ -109,7 +109,7 @@ skills = {
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishan190425&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ishan190425&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ishan190425&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 </div>
 
