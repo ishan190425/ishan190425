@@ -105,11 +105,11 @@ skills = {
 
 <div align="center">
   
-![Ishan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ishan190425&show_icons=true&theme=tokyonight-duo&count_private=true)
+![Ishan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ishan190425&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishan190425&layout=compact&theme=tokyonight-duo&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishan190425&layout=compact&theme=tokyonight&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ishan190425&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ishan190425&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
